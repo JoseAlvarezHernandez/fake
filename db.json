@@ -1,7 +1,11 @@
 {
-  "posts": [
+  "users": [
     {"name":"Jose de Jesus Alvarez","username":"Jose","email":"alvarez_3993@hotmail.com"}
     {"name":"Prueba","username":"Prueba","email":"prueba@hotmail.com"}
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
     "name": "Jose Alvarez"
